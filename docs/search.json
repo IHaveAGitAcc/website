@@ -4,14 +4,14 @@
     "href": "posts.html",
     "title": "My Blog",
     "section": "",
-    "text": "No matching items"
+    "text": "blog post title\n\n\n\nQuarto\n\nR\n\nData Analysis\n\n\n\nblog post description\n\n\n\n\n\nMaxim Lashchivskyy\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "website",
     "section": "",
-    "text": "Contact Information\n\n\nEducation\n\n\nCurrent Position(s)\n\n\nPrevious Position(s)"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "about.html",
@@ -21,10 +21,17 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "website",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Contact Information\n\n\nEducation\n\n\nCurrent Position(s)\n\n\nPrevious Position(s)"
+  },
+  {
+    "objectID": "posts/YYYY-MM-DD-short-post-description/index.html",
+    "href": "posts/YYYY-MM-DD-short-post-description/index.html",
+    "title": "blog post title",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{lashchivskyy,\n  author = {Lashchivskyy, Maxim},\n  title = {Blog Post Title},\n  url = {https://ihaveagitacc.github.io/website/YYYY-MM-DD-short-post-description},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nLashchivskyy, Maxim. n.d. “Blog Post Title.” https://ihaveagitacc.github.io/website/YYYY-MM-DD-short-post-description."
   }
 ]
