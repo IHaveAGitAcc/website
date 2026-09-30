@@ -1,0 +1,12 @@
+---
+title: "blog post title"
+description: "blog post description"
+author:
+  - name: Maxim Lashchivskyy
+  - affiliation: Department of Economics, University of Winnipeg
+  - affiliation_url: https://www.uwinnipeg.ca/economics/
+categories: [Quarto, R, Data Analysis]
+citation:
+  url: https://ihaveagitacc.github.io/website/YYYY-MM-DD-short-post-description
+draft: FALSE
+---
