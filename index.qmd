@@ -1,11 +1,10 @@
 ---
-title: "website"
+title: "Personal Website"
 ---
 
-This is a Quarto website.
+Maxim
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Honours Economics Student at the University of Winnipeg
 
-```{r}
-1 + 1
-```
+# About Me
+
