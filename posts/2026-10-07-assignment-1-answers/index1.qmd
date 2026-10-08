@@ -2,7 +2,7 @@
 title: "ECON-3201 Assignment 1 Answers"
 description: "Submission for assignment 1 from ECON-3201"
 author:
-  - name: Maxim Lashchivskyy
+  - name: Maxim
   - affiliation: Department of Economics, University of Winnipeg
   - affiliation_url: https://www.uwinnipeg.ca/economics/
 categories: [Quarto, R, Data Analysis, Assignment]

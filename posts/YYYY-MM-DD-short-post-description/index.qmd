@@ -2,7 +2,7 @@
 title: "blog post title"
 description: "blog post description"
 author:
-  - name: Maxim Lashchivskyy
+  - name: Maxim
   - affiliation: Department of Economics, University of Winnipeg
   - affiliation_url: https://www.uwinnipeg.ca/economics/
 categories: [Quarto, R, Data Analysis]
