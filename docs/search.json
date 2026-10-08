@@ -7,18 +7,11 @@
     "text": "ECON-3201 Assignment 1 Answers\n\n\n\nQuarto\n\nR\n\nData Analysis\n\nAssignment\n\n\n\nSubmission for assignment 1 from ECON-3201\n\n\n\n\n\nMaxim\n\n\n\n\n\n\n\n\n\n\n\n\nblog post title\n\n\n\nQuarto\n\nR\n\nData Analysis\n\n\n\nblog post description\n\n\n\n\n\nMaxim\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Personal Website",
+    "objectID": "posts/2026-10-07-assignment-1-answers/index.html",
+    "href": "posts/2026-10-07-assignment-1-answers/index.html",
+    "title": "ECON-3201 Assignment 1 Answers",
     "section": "",
-    "text": "Maxim\nHonours Economics Student at the University of Winnipeg\n\nAbout Me"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Link to the .pdf file\n\n\n\nCitationBibTeX citation:@online{untitled,\n  author = {, Maxim},\n  title = {ECON-3201 {Assignment} 1 {Answers}},\n  url = {https://ihaveagitacc.github.io/website/2026-10-07-assignment-1-answers/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMaxim. n.d. “ECON-3201 Assignment 1 Answers.” https://ihaveagitacc.github.io/website/2026-10-07-assignment-1-answers/."
   },
   {
     "objectID": "cv.html",
@@ -28,17 +21,24 @@
     "text": "Contact Information\n\n\nEducation\n\n\nCurrent Position(s)\n\n\nPrevious Position(s)"
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Personal Website",
+    "section": "",
+    "text": "Maxim\nHonours Economics Student at the University of Winnipeg\n\nAbout Me"
+  },
+  {
     "objectID": "posts/YYYY-MM-DD-short-post-description/index.html",
     "href": "posts/YYYY-MM-DD-short-post-description/index.html",
     "title": "blog post title",
     "section": "",
     "text": "CitationBibTeX citation:@online{untitled,\n  author = {, Maxim},\n  title = {Blog Post Title},\n  url = {https://ihaveagitacc.github.io/website/YYYY-MM-DD-short-post-description},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMaxim. n.d. “Blog Post Title.” https://ihaveagitacc.github.io/website/YYYY-MM-DD-short-post-description."
-  },
-  {
-    "objectID": "posts/2026-10-07-assignment-1-answers/index1.html",
-    "href": "posts/2026-10-07-assignment-1-answers/index1.html",
-    "title": "ECON-3201 Assignment 1 Answers",
-    "section": "",
-    "text": "Link to pdf.\n\n\n\nCitationBibTeX citation:@online{untitled,\n  author = {, Maxim},\n  title = {ECON-3201 {Assignment} 1 {Answers}},\n  url = {https://ihaveagitacc.github.io/website/2026-10-07-assignment-1-answers},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMaxim. n.d. “ECON-3201 Assignment 1 Answers.” https://ihaveagitacc.github.io/website/2026-10-07-assignment-1-answers."
   }
 ]

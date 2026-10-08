@@ -7,8 +7,8 @@ author:
   - affiliation_url: https://www.uwinnipeg.ca/economics/
 categories: [Quarto, R, Data Analysis, Assignment]
 citation:
-  url: https://ihaveagitacc.github.io/website/2026-10-07-assignment-1-answers
+  url: https://ihaveagitacc.github.io/website/2026-10-07-assignment-1-answers/
 draft: FALSE
 ---
 
-[Link to pdf.](C:/Users/mainf/OneDrive/Documents/Econometrics/econ_3201_a1_maxim_submission.pdf)
+[Link to the .pdf file](https://github.com/IHaveAGitAcc/website/blob/master/posts/econ_3201_a1_maxim_submission.pdf)
