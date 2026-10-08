@@ -11,4 +11,4 @@ citation:
 draft: FALSE
 ---
 
-[Link to pdf.](C:/Users/mainf/OneDrive/Documents/Econometrics/econ_3201_a1_maxim_submission.pdf)
+[Link to pdf.](/econ_3201_a1_maxim_submission.pdf)
