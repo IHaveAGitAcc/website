@@ -1,0 +1,14 @@
+---
+title: "ECON-3201 Assignment 1 Answers"
+description: "Submission for assignment 1 from ECON-3201"
+author:
+  - name: Maxim Lashchivskyy
+  - affiliation: Department of Economics, University of Winnipeg
+  - affiliation_url: https://www.uwinnipeg.ca/economics/
+categories: [Quarto, R, Data Analysis, Assignment]
+citation:
+  url: https://ihaveagitacc.github.io/website/2026-10-07-assignment-1-answers
+draft: FALSE
+---
+
+[Link to pdf.](C:/Users/mainf/OneDrive/Documents/Econometrics/econ_3201_a1_maxim_submission.pdf)
